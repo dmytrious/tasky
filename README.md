@@ -1,2 +1,2 @@
-# tasky
-Tasky Project
+# tasky-project
+Task manager
