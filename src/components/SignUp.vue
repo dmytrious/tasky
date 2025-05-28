@@ -3,10 +3,6 @@
     <div
       class="flex flex-1 flex-col justify-center py-12 px-4 sm:px-6 lg:flex-none lg:px-20 xl:px-24"
     >
-      <p class="flex justify-center">
-        <img class="h-28 w-auto" src="/Logo.png" alt="Tasky Project Logo" />
-      </p>
-
       <div class="mx-auto w-full max-w-sm lg:w-96">
         <div>
           <h2
@@ -104,7 +100,7 @@
     <div class="relative hidden sm:block w-0 flex-1">
       <img
         class="absolute inset-0 h-full w-full object-cover rounded-r-xl"
-        src="/MainImg.jpg"
+        src="/MainImg.png"
         alt="Tasky Project"
       />
     </div>
