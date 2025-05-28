@@ -82,7 +82,7 @@
     <div class="relative hidden sm:block w-0 flex-1">
       <img
         class="absolute inset-0 h-full w-full object-cover rounded-r-xl"
-        src="/MainImg.jpg"
+        src="/MainImg.png"
         alt="Tasky Project"
       />
     </div>
